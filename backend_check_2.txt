@@ -1,0 +1,11 @@
+Users: [
+  {
+    id: 4,
+    email: 'refresh_test_1@example.com',
+    password: '$2a$10$UQ/2vhHDAjyFGy.GL0UxvOjllum7TXBQRWAPAjtZG.3NtIQZQk3hu',
+    name: 'Refresh Test',
+    role: 'user',
+    createdAt: 2025-11-22T09:51:25.005Z,
+    updatedAt: 2025-11-22T09:51:25.005Z
+  }
+]
