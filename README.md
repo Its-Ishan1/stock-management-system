@@ -1,4 +1,4 @@
-# StockMaster Frontend
+# StockManagement
 
 Modern, real-time inventory management system built with React and Vite.
 
